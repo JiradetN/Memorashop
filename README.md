@@ -11,3 +11,6 @@ https://docs.google.com/spreadsheets/d/1_eUOOtvRmhv0G7x08Bij1N_5y1UyzkiNJ2CZUSLH
 
 **Sprint Backlog & Burndown Chart:**
 https://docs.google.com/spreadsheets/d/1QgE-d_HKbNd6jJjysImIELmGSklXxYmHkSXcr7KvJh8/edit?usp=sharing
+
+**Presentation**
+https://www.canva.com/design/DAF7bDtq-vo/r6DiRlvfAmzn8-Kh36fHng/edit?utm_content=DAF7bDtq-vo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
