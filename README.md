@@ -11,6 +11,3 @@ https://docs.google.com/spreadsheets/d/1_eUOOtvRmhv0G7x08Bij1N_5y1UyzkiNJ2CZUSLH
 
 **Sprint Backlog & Burndown Chart:**
 https://docs.google.com/spreadsheets/d/1QgE-d_HKbNd6jJjysImIELmGSklXxYmHkSXcr7KvJh8/edit?usp=sharing
-
-**Github :**
-https://github.com/JiradetN/Memorashop
