@@ -1,0 +1,18 @@
+เข้า docker desktop ไปที่ prestashop container เข้า Exec
+ใช้คำสั่ง
+1. cd localization/CLDR/core/common/main/ หรือ
+cd localization
+cd CLDR
+cd core
+cd common
+cd main
+2. ls //เช็คไฟล์
+3. apt update และ apt install nano เพื่อใช้ nano แก้ไฟล์
+4. nano id.xml 
+5. กด ctrl+w และหา "decimal"
+6. จะเห็น <decimal>,</decimal>
+		<group>.</group> 
+เปลี่ยนเป็น 
+		<decimal>.</decimal>
+		<group>,</group> 
+7. ctrl+o เพื่อ save และกด ctrl+x เพื่อออก เป็นอันจบขั้นตอน
