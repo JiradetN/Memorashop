@@ -13,7 +13,7 @@ https://miro.com/welcomeonboard/aGFtSmdRMUZEM0tlWVJKeXFkMnJ5ejlxY21STTdzc0pxN0VF
 https://docs.google.com/spreadsheets/d/1_eUOOtvRmhv0G7x08Bij1N_5y1UyzkiNJ2CZUSLHlVw/edit?usp=sharing
 
 **Sprint Backlog & Burndown Chart:**
-https://docs.google.com/spreadsheets/d/1QgE-d_HKbNd6jJjysImIELmGSklXxYmHkSXcr7KvJh8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1mTd91sSOekKBZFzijeZzTeAoI4LxNavrVplj0gacZlU/edit?fbclid=IwAR1W-9m3Uq7KUv1n1gnpkl2Y6Jy5maL57_MFMgk92uYaadZ47HWxQ7bAC9o#gid=996137331
 
 **Presentation**
 https://www.canva.com/design/DAF7bDtq-vo/r6DiRlvfAmzn8-Kh36fHng/edit?utm_content=DAF7bDtq-vo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
