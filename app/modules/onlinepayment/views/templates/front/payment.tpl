@@ -8,6 +8,8 @@
         </div>
         <div class="col-md-6">
             <h1 style="font-size: 2em; color: #000000;">{$PRICE} บาท</h1>
+            <p>หมายเลขพร้อมเพย์ 0942904542</p>
+            <p>นายจิรเดช นาคำ</p>
             <form method="post" enctype="multipart/form-data" style="margin-top: 2rem;">
                 <div class="form-group">
                     <label for="slip_upload" class="control-label">แนบสลิปการโอน</label>
